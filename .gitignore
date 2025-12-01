@@ -1,0 +1,4 @@
+microdados_ed_basica_2024.csv
+instituicoes_paraiba.json
+git rm --cached microdados_ed_basica_2024.csv
+git rm --cached instituicoes_paraiba.json
