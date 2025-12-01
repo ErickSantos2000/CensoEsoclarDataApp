@@ -2,7 +2,7 @@ import pandas as pd
 
 def filtrarDados():
 
-    print("iniciando...")
+    print("iniciando script...")
 
     df = pd.read_csv(
         "microdados_ed_basica_2024.csv", sep=";", encoding="latin1", low_memory=False
